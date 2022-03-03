@@ -1,1 +1,2 @@
-added 0x00-shell_basics folder
+#alx-system_engineering-devops
+**This will print the current working directory**
